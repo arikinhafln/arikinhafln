@@ -2,8 +2,10 @@
 
 ## `Data Analyst ` ##
 
-I use SQL and Python to explore data, spot patterns, detect anomalies, and better understand financial risk. 💸
-Currently diving deeper into Data Science and AI applied to Financial Markets at PUCMG. I enjoy working with high-volume, multi-currency datasets and turning complex data into clear insights that support risk, compliance, and business decisions — always looking for smarter and more automated ways to solve problems.📉
+### `From the classroom to the data world: transforming curiosity into insight and data into impact.`
+
+After 10+ years in education, I transitioned from the classroom to data analytics. Teaching helped me develop strong problem-solving and communication skills, which I now apply to working with data. I use SQL and Python to explore data, spot patterns, detect anomalies, and better understand financial risk. 💸
+Currently diving deeper into Data Science and AI applied to Financial Markets at PUCMG. I enjoy working with high-volume, multi-currency datasets and turning complex data into clear insights that support risk, compliance, and business decisions, always looking for smarter and more automated ways to solve problems.📉
 
 
   ##
@@ -72,4 +74,4 @@ Currently diving deeper into Data Science and AI applied to Financial Markets at
 
 [BanVic] (https://github.com/arikinhafln/data-analytics-activities/blob/main/BanVic2.ipynb)
 
-![Image Alt]()
+![Image Alt](https://github.com/arikinhafln/arikinhafln/blob/e4518cd7998743f4cdd7647dc96d8292c2877d67/unnamed.gif)
