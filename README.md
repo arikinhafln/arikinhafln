@@ -63,22 +63,13 @@ Currently diving deeper into Data Science and AI applied to Financial Markets at
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Projects
+[Consumer complaint] 
+(https://github.com/arikinhafln/data-analytics-activities/blob/main/C%C3%B3pia_de_Desafio_Final_Reclama%C3%A7%C3%B5es_do_Consumidor_SQUAD_MARY_JACKSON.ipynb) 
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=arikinhafln&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+[TelecomX]
+(https://github.com/arikinhafln/TelecomX/blob/main/Telecom_X_An%C3%A1lise_de_Evas%C3%A3o_de_Clientes_.ipynb)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arikinhafln&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+[BanVic] (https://github.com/arikinhafln/data-analytics-activities/blob/main/BanVic2.ipynb)
 
-</p>
+![Image Alt]()
