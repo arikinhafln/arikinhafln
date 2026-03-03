@@ -1,10 +1,9 @@
 # 👩🏽‍💻 Ariane Nascimento
 
-## `Data Analyst` ##
+## `Data Analyst ` ##
 
-I use SQL and Python to explore data, spot patterns, detect anomalies, and better understand financial risk.
-
-Currently diving deeper into Data Science and AI applied to Financial Markets. I enjoy working with high-volume, multi-currency datasets and turning complex data into clear insights that support risk, compliance, and business decisions — always looking for smarter and more automated ways to solve problems..
+I use SQL and Python to explore data, spot patterns, detect anomalies, and better understand financial risk. 💸
+Currently diving deeper into Data Science and AI applied to Financial Markets at PUCMG. I enjoy working with high-volume, multi-currency datasets and turning complex data into clear insights that support risk, compliance, and business decisions — always looking for smarter and more automated ways to solve problems.📉
 
 
   ##
@@ -18,7 +17,7 @@ Currently diving deeper into Data Science and AI applied to Financial Markets. I
 </div>
 
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Data Tools & Programming
 
 <img 
     align="left" 
@@ -72,14 +71,14 @@ Currently diving deeper into Data Science and AI applied to Financial Markets. I
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=arikinhafln&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arikinhafln&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
