@@ -72,6 +72,8 @@ Currently diving deeper into Data Science and AI applied to Financial Markets at
 [TelecomX]
 (https://github.com/arikinhafln/TelecomX/blob/main/Telecom_X_An%C3%A1lise_de_Evas%C3%A3o_de_Clientes_.ipynb)
 
+[Students Performance analysis] (https://github.com/arikinhafln/Students-performance/blob/main/README.md)
+
 [BanVic] (https://github.com/arikinhafln/data-analytics-activities/blob/main/BanVic2.ipynb)
 
 ![Image Alt](https://github.com/arikinhafln/arikinhafln/blob/e4518cd7998743f4cdd7647dc96d8292c2877d67/unnamed.gif)
