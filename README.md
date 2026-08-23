@@ -2,11 +2,9 @@
 
 ## `Data Analyst ` ##
 
-### `From the classroom to the data world: transforming curiosity into insight and data into impact.`
+### `Data Analyst with a background in education and fintech, currently specialising in Data Science & AI Applied to Financial Markets.`
 
-After 10+ years in education, I transitioned from the classroom to data analytics. Teaching helped me develop strong problem-solving and communication skills, which I now apply to working with data. I use SQL and Python to explore data, spot patterns, detect anomalies, and better understand financial risk. 💸
-Currently diving deeper into Data Science and AI applied to Financial Markets at PUCMG. I enjoy working with high-volume, multi-currency datasets and turning complex data into clear insights that support risk, compliance, and business decisions, always looking for smarter and more automated ways to solve problems.📉
-
+I use SQL and Python to explore data, find patterns and anomalies, and generate insights from financial datasets. My experience at Revolut has given me practical experience with financial data, customer behaviour, risk analysis, and large datasets. I’m interested in Data Analytics, Product Analytics, Data Science, and Machine Learning, with a focus on using data to solve problems and support better decisions. 💸📉
 
   ##
  
